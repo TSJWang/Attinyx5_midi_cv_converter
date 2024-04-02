@@ -7,7 +7,7 @@
 
 #define MIDIRX 4  // 4=PB4/D4 in Arduino terms = Pin 3 for ATTiny85
 //#define MIDITX 3  // 3=PB3/D3 in Arduino terms = Pin 2 for ATTiny85
-#define MIDICH 1
+#define MIDICH 3
 #define MIDILONOTE 36
 #define MIDIHINOTE 96
 
